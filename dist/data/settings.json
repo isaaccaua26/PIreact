@@ -19,7 +19,7 @@
             "en": {"role": "Web Developer"},
             "es": {"role": "Desarrollador Web"},
             "fr": {"role": "Développeur Web"},
-            "ko": {"role": "웹 개발자"}
+            "pt": {"role": "웹 개발자"}
         }
     },
 
@@ -31,7 +31,7 @@
             "en": {"message": "Available for freelance!"},
             "es": {"message": "¡Disponible para freelance!"},
             "fr": {"message": "Disponible pour freelance !"},
-            "ko": {"message": "프리랜스 가능합니다!"}
+            "pt": {"message": "프리랜스 가능합니다!"}
         }
     },
 
@@ -71,8 +71,8 @@
 
         {
             "name": "한국어",
-            "id": "ko",
-            "flagUrl": "images/flags/ko.png"
+            "id": "pt",
+            "flagUrl": "images/flags/pt.png"
         }
     ],
 

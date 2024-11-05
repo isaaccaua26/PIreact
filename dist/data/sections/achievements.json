@@ -21,7 +21,7 @@
             "title_long": "Mes **Réalisations**"
         },
 
-        "ko": {
+        "pt": {
             "title": "경력 성과",
             "title_menu": "경력 성과",
             "title_long_prefix": "다음은",
@@ -38,7 +38,7 @@
                 "en": { "title": "Certifications" },
                 "es": { "title": "Certificaciones" },
                 "fr": { "title": "Certifications" },
-                "ko": { "title": "인증서" }
+                "pt": { "title": "인증서" }
             },
 
             "items": [
@@ -66,7 +66,7 @@
                         "fr": {
                             "text": "Administrateur Kubernetes Certifié (CKA)"
                         },
-                        "ko": {
+                        "pt": {
                             "text": "인증된 쿠버네티스 관리자 (CKA)"
                         }
                     }
@@ -95,7 +95,7 @@
                         "fr": {
                             "text": "Architecte de Solutions Certifié AWS – Associé"
                         },
-                        "ko": {
+                        "pt": {
                             "text": "AWS 인증 솔루션 아키텍트 – 어소시에이트"
                         }
                     }
@@ -124,7 +124,7 @@
                         "fr": {
                             "text": "Développeur Java Certifié"
                         },
-                        "ko": {
+                        "pt": {
                             "text": "인증된 자바 개발자"
                         }
                     }
@@ -153,7 +153,7 @@
                         "fr": {
                             "text": "Développeur Certifié MongoDB"
                         },
-                        "ko": {
+                        "pt": {
                             "text": "몽고디비 인증 개발자"
                         }
                     }
@@ -169,7 +169,7 @@
                 "en": { "title": "Awards" },
                 "es": { "title": "Premios" },
                 "fr": { "title": "Récompenses" },
-                "ko": { "title": "수상 내역" }
+                "pt": { "title": "수상 내역" }
             },
 
             "items": [
@@ -195,7 +195,7 @@
                             "info": "MIT",
                             "text": "Reconnu pour son travail innovant sur l'optimisation des systèmes backend pour les environnements cloud, avec des améliorations significatives des performances."
                         },
-                        "ko": {
+                        "pt": {
                             "title": "**최우수 졸업 프로젝트** – 백엔드 최적화",
                             "info": "MIT",
                             "text": "클라우드 환경에서 백엔드 시스템을 최적화한 혁신적인 작업으로 성능을 크게 개선한 것으로 인정받았습니다."
@@ -226,7 +226,7 @@
                             "info": "GitHub",
                             "text": "Récompensé pour sa contribution à un cadre backend open source qui a amélioré l'évolutivité et réduit la latence."
                         },
-                        "ko": {
+                        "pt": {
                             "title": "**최우수 기여자** – 오픈 소스 백엔드 프로젝트",
                             "info": "GitHub",
                             "text": "확장성을 개선하고 지연 시간을 줄인 오픈 소스 백엔드 프레임워크에 기여한 공로로 수상했습니다."
@@ -255,7 +255,7 @@
                             "info": "Conférence des Développeurs d'API",
                             "text": "A remporté la 1ère place pour avoir développé une API robuste avec des fonctionnalités avancées comme le traitement des données en temps réel et l'intégration transparente."
                         },
-                        "ko": {
+                        "pt": {
                             "title": "**1위** – 글로벌 API 디자인 챌린지",
                             "info": "API 개발자 컨퍼런스",
                             "text": "실시간 데이터 처리 및 원활한 통합과 같은 고급 기능을 갖춘 강력한 API를 개발하여 1위를 차지했습니다."
@@ -286,7 +286,7 @@
                             "info": "Magazine Tech Innovator",
                             "text": "Reconnu pour avoir conçu une architecture backend efficace et évolutive qui a amélioré les performances et la fiabilité du système."
                         },
-                        "ko": {
+                        "pt": {
                             "title": "**최우수 백엔드 아키텍처** – 기술 혁신자 어워드",
                             "info": "Tech Innovator 매거진",
                             "text": "시스템 성능과 안정성을 개선한 효율적이고 확장 가능한 백엔드 아키텍처 설계로 인정받았습니다."
