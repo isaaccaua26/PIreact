@@ -22,10 +22,10 @@
         },
 
         "pt": {
-            "title": "최근의 삶",
-            "title_menu": "업데이트",
-            "title_long_prefix": "내 최근",
-            "title_long": "**업데이트**를 확인해 보세요"
+            "title": "Vida Recientemente",
+            "title_menu": "Atualizaçoes",
+            "title_long_prefix": "Consultar minhas",
+            "title_long": "Atualizaçoes **Recientes**"
         }
     },
 
@@ -133,7 +133,7 @@
                         },
                         "pt": {
                             "title": "07",
-                            "info": "오픈 소스 프로젝트"
+                            "info": "Projetos de codigo aberto"
                         }
                     }
                 },
@@ -158,7 +158,7 @@
                         },
                         "pt": {
                             "title": "20,000",
-                            "info": "마신 커피"
+                            "info": "Cafés consumidos"
                         }
                     }
                 }
@@ -174,7 +174,7 @@
                 "en": { "title": "Quick **Facts**" },
                 "es": { "title": "Feed de **Noticias**" },
                 "fr": { "title": "Fil d'**Actualités**" },
-                "pt": { "title": "**뉴스** 피드" }
+                "pt": { "title": "**Feed** Noticias" }
             },
 
             "items": [

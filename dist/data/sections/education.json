@@ -19,9 +19,9 @@
         },
 
         "pt": {
-            "title": "교육",
-            "title_long_prefix": "이것은 내",
-            "title_long": "**교육적** 배경"
+            "title": "Educação",
+            "title_long_prefix": "Este é meu",
+            "title_long": "**Histórico** educacional"
         }
     },
 
@@ -63,9 +63,9 @@
                             "tags": null
                         },
                         "pt": {
-                            "title": "**학사** 컴퓨터 과학",
+                            "title": "**Bacharel** em Ciência da Computação",
                             "info": "MIT",
-                            "text": "알고리즘, 데이터 구조, 소프트웨어 공학 및 웹 개발에 중점을 둔 컴퓨터 과학 학사 학위를 취득했습니다. 다양한 프로그래밍 프로젝트와 부트캠프를 통해 실무 경험을 쌓았습니다.",
+                            "text": "Obtive um diploma de bacharel em Ciência da Computação com ênfase em algoritmos, estruturas de dados, engenharia de software e desenvolvimento web. Ganhei experiência prática através de diversos projetos de programação e bootcamps.",
                             "tags": null
                         }
                     }

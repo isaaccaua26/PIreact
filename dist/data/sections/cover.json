@@ -103,7 +103,7 @@
                         "en": {"text": "<p>Im a PHP developer with <b>over a decade</b> of experience, specializing in backend development with some frontend work as well. I also have hands-on experience with C++, C#, Go, and Python in production environments.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs.</p><p>I look forward to collaborating <b>with you!</b>"},
                         "es": {"text": "<p>Soy un desarrollador de PHP con <b>más de una década</b> de experiencia, especializado en desarrollo backend y con algo de experiencia en frontend. También tengo experiencia práctica en entornos de producción con C++, C#, Go y Python.</p><p>Este variado historial me permite adaptarme a una amplia gama de necesidades de proyectos.</p><p>¡Espero con interés colaborar <b>contigo!</b></p>"},
                         "fr": {"text": "<p>Je suis développeur PHP avec <b>plus d'une décennie</b> d'expérience, spécialisé dans le développement backend avec un peu de travail en frontend également. J'ai aussi de l'expérience en production avec les technologies C++, C#, Go et Python.</p><p>Ce parcours diversifié me permet de m'adapter à une large gamme de besoins de projets.</p><p>Je suis impatient de collaborer <b>avec vous !</b></p>"},
-                        "pt": {"text": "<p>저는 백엔드 개발을 전문으로 하고, 프론트엔드 작업도 일부 수행해온 <b>10년 이상의</b> 경력을 가진 PHP 개발자입니다. 또한 C++, C#, Go, Python 스택을 사용한 프로덕션 경험도 있습니다.</p><p>이 다양한 배경 덕분에 프로젝트의 다양한 요구에 유연하게 대처할 수 있습니다.</p><p><b>당신과 협업</b>하기를 기대하고 있습니다!</p>"}
+    "text": "<p>Sou um desenvolvedor PHP com mais de <b>10 anos</b> de experiência, especializado em desenvolvimento backend, mas também realizando algumas tarefas de frontend. Além disso, tenho experiência em produção usando stacks como C++, C#, Go e Python.</p><p>Graças a esse background diversificado, consigo me adaptar de forma flexível às diversas demandas dos projetos.</p><p>Estou ansioso para <b>colaborar com você</b>!</p>"
                     }
                 }
             ]
@@ -117,7 +117,7 @@
                 "en": {"title": "Client **testimonials**"},
                 "es": {"title": "Testimonios de **clientes**"},
                 "fr": {"title": "Témoignages de **clients**"},
-                "pt": {"title": "**고객** 추천사"}
+                "pt": "**Depoimentos** de Clientes"
             },
 
             "items": [
@@ -146,7 +146,7 @@
                         },
                         "pt": {
                             "info": "세일즈포스  CEO",
-                            "text": "Mark와의 협업은 변화를 가져오는 경험이었습니다. 그의 프로그래밍 기술과 헌신은 우리 프로젝트를 개선할 뿐만 아니라 팀 전체에 영감을 주었습니다."
+                            "text": "A colaboração com Mark foi uma experiência transformadora. Suas habilidades de programação e dedicação não apenas melhoraram nosso projeto, mas também inspiraram toda a equipe."
                         }
                     }
                 },
@@ -174,9 +174,9 @@
                             "info": "Développeur Principal chez <b>GitHub </b>",
                             "text": "Avoir Mark dans notre équipe a été un atout inestimable. Ses connaissances approfondies en programmation et son mentorat ont non seulement élevé nos projets, mais nous ont également permis de relever chaque défi avec confiance."
                         },
-                        "pt": {
-                            "info": "<b>GitHub</b> 수석 개발자",
-                            "text": "우리 팀에 Mark가 있다는 것은 귀중한 자산이었습니다. 그의 깊은 프로그래밍 통찰력과 멘토링은 우리의 프로젝트를 높이고 모든 도전에 자신감과 창의성으로 대응할 수 있게 해주었습니다."
+                        "pt":{
+                            "info": "<b>Desenvolvedor</b> Sênior do GitHub",
+                            "text": "Ter Mark em nossa equipe foi um ativo valioso. Sua profunda percepção em programação e mentoria elevaram nossos projetos e nos permitiram enfrentar todos os desafios com confiança e criatividade."
                         }
                     }
                 },
@@ -205,8 +205,8 @@
                             "text": "Collaborer avec Mark a été un tournant pour notre processus de développement. Son expertise et ses capacités à résoudre des problèmes ont été inestimables pour notre succès."
                         },
                         "pt": {
-                            "info": "딩가 전무이사",
-                            "text": "Mark와의 협업은 우리의 개발 프로세스에 혁신을 가져왔습니다. 그의 전문성과 문제 해결 능력은 우리의 성공에 없어서는 안 될 요소였습니다."
+                            "info": "Diretor Executivo da Dinga",
+                            "text": "A colaboração com Mark trouxe inovação ao nosso processo de desenvolvimento. Sua especialização e habilidades de resolução de problemas foram elementos indispensáveis para o nosso sucesso."
                         }
                     }
                 },
@@ -235,8 +235,8 @@
                             "text": "L'attention aux détails de Mark et sa pensée innovante ont apporté une nouvelle perspective à notre processus de design. Il a véritablement élevé le travail de notre équipe et nous a aidés à livrer des résultats au-delà des attentes."
                         },
                         "pt": {
-                            "info": "<b>Dribbble</b> 크리에이티브 디렉터",
-                            "text": "Mark의 세부 사항에 대한 주의와 혁신적인 사고는 우리 디자인 프로세스에 신선한 관점을 제공했습니다. 그는 팀의 작업을 향상시키고 기대 이상의 결과를 제공하는 데 큰 도움을 주었습니다."
+                            "info": "<b>Diretor Criativo</b> do Dribbble",
+                            "text": "A atenção de Mark aos detalhes e seu pensamento inovador trouxeram uma nova perspectiva ao nosso processo de design. Ele foi de grande ajuda para melhorar o trabalho da equipe e fornecer resultados além das expectativas."
                         }
                     }
                 }
@@ -253,7 +253,7 @@
                 "en": {"title": "Personal **interests**"},
                 "es": { "title": "Intereses **personales**" },
                 "fr": { "title": "Intérêts **personnels** " },
-                "pt": { "title": "개인 **관심사**" }
+                "pt": { "title": "Interesses **Pessoais**" }
             },
 
             "items": [
@@ -278,8 +278,8 @@
                             "info": "Explorer différents genres et améliorer mes compétences."
                         },
                         "pt": {
-                            "title": "기타 연주",
-                            "info": "다양한 장르를 탐험하고 기술을 향상시키기."
+                            "title": "Execução de Música",
+                            "info": "Explorar diversos gêneros e aprimorar habilidades."
                         }
                     }
                 },
@@ -305,8 +305,8 @@
                             "info": "Apprendre à utiliser des outils d'IA pour améliorer mes vidéos."
                         },
                         "pt": {
-                            "title": "AI 영상 편집",
-                            "info": "AI 도구를 사용하여 내 영상을 향상시키는 방법 배우기."
+                            "title": "Edição de Vídeo com IA",
+                            "info": "Aprender a melhorar meus vídeos usando ferramentas de IA."
                         }
                     }
                 },
@@ -332,8 +332,8 @@
                             "info": "Pratiquer l'art numérique et explorer de nouveaux styles."
                         },
                         "pt": {
-                            "title": "일러스트레이션",
-                            "info": "디지털 아트를 연습하고 새로운 스타일을 탐험하기."
+                            "title": "Ilustração",
+                            "info": "Praticar arte digital e explorar novos estilos."
                         }
                     }
                 },
@@ -359,8 +359,8 @@
                             "info": "Apprendre les bases des actions et des finances personnelles."
                         },
                         "pt": {
-                            "title": "투자",
-                            "info": "주식과 개인 재정의 기초 배우기."
+                            "title": "Investimento",
+                            "info": "Aprender os fundamentos de ações e finanças pessoais."
                         }
                     }
                 },
@@ -386,8 +386,8 @@
                             "info": "Étudier les principes de l'expérience utilisateur."
                         },
                         "pt": {
-                            "title": "UX 디자인",
-                            "info": "사용자 경험 원칙을 공부하기."
+                            "title": "Design de UX",
+                            "info": "Estudar os princípios de experiência do usuário."
                         }
                     }
                 },
@@ -413,8 +413,8 @@
                             "info": "Améliorer des photos avec des techniques de montage créatives."
                         },
                         "pt": {
-                            "title": "사진 편집",
-                            "info": "창의적인 편집 기술을 통해 사진을 향상시키기."
+                            "title": "Edição de Fotos",
+                            "info": "Melhorar fotos através de técnicas de edição criativas."
                         }
                     }
                 }
@@ -429,7 +429,7 @@
                 "en": {"title": "**About** the template"},
                 "es": {"title": "**Acerca de** la plantilla"},
                 "fr": {"title": "**À propos** du modèle"},
-                "pt": {"title": "템플릿에 **대하여**"}
+                "pt": {"title": "Sobre o **Template**"}
             },
 
             "items": [
@@ -443,7 +443,8 @@
                         "en": {"text": "<p>This template was created by and is maintained by <b><a href='https://github.com/isaaccaua26'>Isaac</a></b>. It has been published under the MIT license – providing complete freedom for utilization.</p><p>Feel free to enhance and adapt it to suit your needs! \uD83D\uDE03</p>"},
                         "es": {"text": "<p>Esta plantilla fue creada y es mantenida por <b><a href='https://github.com/isaaccaua26'>Isaac</a></b>. Ha sido publicada bajo la licencia MIT, lo que brinda total libertad para su uso.</p><p>Siéntase libre de mejorarla y adaptarla a sus necesidades! \uD83D\uDE03</p>"},
                         "fr": {"text": "<p>Ce modèle a été créé et est maintenu par <b><a href='https://github.com/isaaccaua26'>Isaac</a></b>. Il est publié sous la licence MIT, offrant une totale liberté d'utilisation.</p><p>N'hésitez pas à l'améliorer et l'adapter à vos besoins! \uD83D\uDE03</p>"},
-                        "pt": {"text": "<p>이 템플릿은 <b><a href='https://github.com/isaaccaua26'>Isaac</a></b>에 의해 생성되고 유지 관리됩니다. MIT 라이선스로 배포되어 자유롭게 사용할 수 있습니다.</p><p>필요에 따라 자유롭게 개선하고 조정하세요! \uD83D\uDE03</p>"}
+                        "pt": {"text": "<p>Este template foi criado e é mantido por <b><a href='https://github.com/isaaccaua26'>Isaac</a></b>. Ele é distribuído sob a licença MIT e pode ser usado livremente.</p><p>Sinta-se à vontade para melhorar e ajustar conforme necessário! 😃</p>"
+                       }        
                     }
                 }
             ]

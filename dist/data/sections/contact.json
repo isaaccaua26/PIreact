@@ -19,9 +19,9 @@
         },
 
         "pt": {
-            "title": "연락처",
-            "title_long_prefix": "주저하지 말고",
-            "title_long": "**연락** 주세요"
+            "title": "Contato",
+            "title_long_prefix": "Nao hesite em ",
+            "title_long": "**Chamar** "
         }
     },
 
@@ -34,7 +34,7 @@
                 "en": {"title": "Send me a **message**"},
                 "es": {"title": "Envíame un **mensaje**"},
                 "fr": {"title": "Envoyez-moi un **message**"},
-                "pt": {"title": "**메시지를** 보내주세요"}
+                "pt": {"title": " Me mande um**mensagem**"}
             },
 
             "items": null
@@ -50,7 +50,7 @@
                 "en": {"title": "Or if you **prefer**..."},
                 "es": {"title": "O si **prefieres**..."},
                 "fr": {"title": "Ou si vous **préférez**..."},
-                "pt": {"title": "또는 **원하시면**..."}
+                "pt": {"title": "ou **se desejar**..."}
             },
 
             "items": [
@@ -68,7 +68,7 @@
                         "en": {"title": "Phone"},
                         "es": {"title": "Teléfono"},
                         "fr": {"title": "Téléphone"},
-                        "pt": {"title": "전화"}
+                        "pt": {"title": "Telefone"}
                     }
                 },
                 {
@@ -83,7 +83,7 @@
                     },
                     "locales": {
                         "en": {"title": "E-mail"},
-                        "pt": {"title": "이메일"}
+                        "pt": {"title": "E-mail"}
                     }
                 },
 

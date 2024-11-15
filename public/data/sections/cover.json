@@ -21,7 +21,7 @@
             "title_long": "Je suis **Isaac!**"
         },
 
-        "Br": {
+        "pt": {
             "title": "Bem vindo!",
             "title_menu": "Sobre mim",
             "title_long_prefix": "Olá...",
@@ -41,7 +41,7 @@
                 "en": {},
                 "es": {},
                 "fr": {},
-                "ko": {}
+                "pt": {}
             },
 
             "items": [
@@ -89,7 +89,7 @@
                 "en": {"title": "**A little bit** about me..."},
                 "es": {"title": "**Un poco** sobre mí..."},
                 "fr": {"title": "**Un peu** à propos de moi..."},
-                "ko": {"title": "**Um pouco** sobre mim..."}
+                "pt": {"title": "**Um pouco** sobre mim..."}
             },
 
             "items": [
@@ -103,7 +103,7 @@
                         "en": {"text": "<p>CAREER DEVELOPMENT IN THE AREA OF CYBER SECURITY, ANALYST AND SYSTEMS DEVELOPMENT, PYTHON, CLOUD, JAVA, JAVA SCRIPT, REACT, UX Designer and Video Editor</p><p>I look forward to collaborating <b>with you!</b>"},
                         "es": {"text": "<p>DESARROLLO CARRERA EN EL ÁREA DE SEGURIDAD CIBERNÉTICA, ANALISTA Y DESARROLLO DE SISTEMAS, PYTHON, CLOUD, JAVA, JAVA SCRIPT, REACT, Diseñador UX y Editor de Video <b>contigo!</b></p>"},
                         "fr": {"text": "<p>Je suis développeur PHP avec <b>plus d'une décennie</b> d'expérience, spécialisé dans le développement backend avec un peu de travail en frontend également. J'ai aussi de l'expérience en production avec les technologies C++, C#, Go et Python.</p><p>Ce parcours diversifié me permet de m'adapter à une large gamme de besoins de projets.</p><p>Je suis impatient de collaborer <b>avec vous !</b></p>"},
-                        "ko": {"text": "<p>CARREIRA EM DESENVOLVIMENTO NA AREA DE CYBER SEGURANÇA, ANALISTA E DESENVOLVIMENTO DE SISTEMAS,PYTHON, NUVEM,JAVA,JAVA SCRIPT ,REACT,Designer UX e Editor de Videos</p>"}
+                        "pt": {"text": "<p>CARREIRA EM DESENVOLVIMENTO NA AREA DE CYBER SEGURANÇA, ANALISTA E DESENVOLVIMENTO DE SISTEMAS,PYTHON, NUVEM,JAVA,JAVA SCRIPT ,REACT,Designer UX e Editor de Videos</p>"}
                     }
                 }
             ]
@@ -117,7 +117,7 @@
                 "en": {"title": "Client **testimonials**"},
                 "es": {"title": "Testimonios de **clientes**"},
                 "fr": {"title": "Témoignages de **clients**"},
-                "ko": {"title": "Depoimentos de **clientes**"}
+                "pt": {"title": "Depoimentos de **clientes**"}
             },
 
             "items": [
@@ -144,8 +144,8 @@
                             "info": "PDG de <b>SalesForce</b>",
                             "text": "Travailler avec Isaac a été une expérience transformative. Ses compétences en programmation et son dévouement ont non seulement amélioré notre projet, mais ont également inspiré toute l'équipe."
                         },
-                        "ko": {
-                            "info": "세일즈포스  Analist",
+                        "pt": {
+                            "info": "Analista na <b>BBTS</b>",
                             "text": "Trabalhar com Isaac foi uma experiência transformadora. Suas habilidades de programação e dedicação não apenas melhoraram nosso projeto, mas também inspiraram toda a equipe.."
                         }
                     }
@@ -174,43 +174,12 @@
                             "info": "UX chez <b>BBTS </b>",
                             "text": "Avoir Isaac dans notre équipe a été un atout inestimable. Ses connaissances approfondies en programmation et son mentorat ont non seulement élevé nos projets, mais nous ont également permis de relever chaque défi avec confiance."
                         },
-                        "ko": {
+                        "pt": {
                             "info": "UX na <b>BBTS</b> ",
                             "text": "Ter Isaac em nossa equipe foi um trunfo inestimável. Seus profundos insights de programação e orientação não apenas elevaram nossos projetos, mas também nos capacitaram a enfrentar todos os desafios com confiança e criatividade.."
                         }
                     }
                 },
-
-                {
-                    "value": "Paige Turner",
-                    "links": [
-                        {"href": null}
-                    ],
-                    "icon": {
-                        "img": "images/pictures/person-2.png",
-                        "fa": null,
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {
-                            "info": "Managing Director at <b>Dingga</b>",
-                            "text": "Collaborating with Isaac was a game changer for our development process. His expertise and problem-solving abilities were invaluable to our success."
-                        },
-                        "es": {
-                            "info": "Directora General en <b>Dingga</b>",
-                            "text": "Colaborar con Isaac fue un cambio de juego para nuestro proceso de desarrollo. Su experiencia y habilidades para resolver problemas fueron invaluables para nuestro éxito."
-                        },
-                        "fr": {
-                            "info": "Directrice Générale chez <b>Dingga</b>",
-                            "text": "Collaborer avec Isaac a été un tournant pour notre processus de développement. Son expertise et ses capacités à résoudre des problèmes ont été inestimables pour notre succès."
-                        },
-                        "ko": {
-                            "info": "딩가 전무이사",
-                            "text": "Isaac와의 협업은 우리의 개발 프로세스에 혁신을 가져왔습니다. 그의 전문성과 문제 해결 능력은 우리의 성공에 없어서는 안 될 요소였습니다."
-                        }
-                    }
-                },
-
                 {
                     "value": "Chris P. Bacon",
                     "links": [
@@ -234,9 +203,9 @@
                             "info": "Directrice Créative chez <b>Dribbble</b>",
                             "text": "L'attention aux détails de Isaac et sa pensée innovante ont apporté une nouvelle perspective à notre processus de design. Il a véritablement élevé le travail de notre équipe et nous a aidés à livrer des résultats au-delà des attentes."
                         },
-                        "ko": {
+                        "pt": {
                             "info": "<b>Dribbble</b> 크리에이티브 디렉터",
-                            "text": "Isaac의 세부 사항에 대한 주의와 혁신적인 사고는 우리 디자인 프로세스에 신선한 관점을 제공했습니다. 그는 팀의 작업을 향상시키고 기대 이상의 결과를 제공하는 데 큰 도움을 주었습니다."
+                            "text": "Isaac ,Tem atenção aos detalhes e seu pensamento inovador trouxeram uma nova perspectiva ao nosso processo de design. Ele realmente elevou o trabalho de nossa equipe e nos ajudou a entregar resultados além das expectativas."
                         }
                     }
                 }
@@ -253,7 +222,7 @@
                 "en": {"title": "Personal **interests**"},
                 "es": { "title": "Intereses **personales**" },
                 "fr": { "title": "Intérêts **personnels** " },
-                "ko": { "title": "개인 **관심사**" }
+                "pt": { "title": "Interesse**Pessoal**" }
             },
 
             "items": [
@@ -277,9 +246,9 @@
                             "title": "Jouer de la guitare",
                             "info": "Explorer différents genres et améliorer mes compétences."
                         },
-                        "ko": {
-                            "title": "기타 연주",
-                            "info": "다양한 장르를 탐험하고 기술을 향상시키기."
+                        "pt": {
+                            "title": "Toco violao",
+                            "info": "Explorando diferentes gêneros musicais e melhorando minhas habilidades."
                         }
                     }
                 },
@@ -304,9 +273,9 @@
                             "title": "Montage vidéo avec IA",
                             "info": "Apprendre à utiliser des outils d'IA pour améliorer mes vidéos."
                         },
-                        "ko": {
-                            "title": "AI 영상 편집",
-                            "info": "AI 도구를 사용하여 내 영상을 향상시키는 방법 배우기."
+                        "pt": {
+                            "title": "Editor de video com IA ",
+                            "info": "Aprendendo a usar ferramentas de IA para aprimorar meus vídeos."
                         }
                     }
                 },
@@ -331,9 +300,9 @@
                             "title": "Illustration",
                             "info": "Pratiquer l'art numérique et explorer de nouveaux styles."
                         },
-                        "ko": {
-                            "title": "일러스트레이션",
-                            "info": "디지털 아트를 연습하고 새로운 스타일을 탐험하기."
+                        "pt": {
+                            "title": "Ilustraçao",
+                            "info": "Praticar arte digital e explorar novos estilos."
                         }
                     }
                 },
@@ -358,9 +327,9 @@
                             "title": "Investir",
                             "info": "Apprendre les bases des actions et des finances personnelles."
                         },
-                        "ko": {
-                            "title": "투자",
-                            "info": "주식과 개인 재정의 기초 배우기."
+                        "pt": {
+                            "title": "Investimento",
+                            "info": "Aprendendo o básico de ações e finanças pessoais."
                         }
                     }
                 },
@@ -385,9 +354,9 @@
                             "title": "Conception UX",
                             "info": "Étudier les principes de l'expérience utilisateur."
                         },
-                        "ko": {
-                            "title": "UX 디자인",
-                            "info": "사용자 경험 원칙을 공부하기."
+                        "pt": {
+                            "title": "UX Designer",
+                            "info": "Estudando os princípios da experiência do usuário."
                         }
                     }
                 },
@@ -412,9 +381,9 @@
                             "title": "Retouche photo",
                             "info": "Améliorer des photos avec des techniques de montage créatives."
                         },
-                        "ko": {
-                            "title": "사진 편집",
-                            "info": "창의적인 편집 기술을 통해 사진을 향상시키기."
+                        "pt": {
+                            "title": "Ediçao de fotos",
+                            "info": "Aprimorando fotos por meio de técnicas de edição criativa."
                         }
                     }
                 }
@@ -429,7 +398,7 @@
                 "en": {"title": "**About** the template"},
                 "es": {"title": "**Acerca de** la plantilla"},
                 "fr": {"title": "**À propos** du modèle"},
-                "ko": {"title": "템플릿에 **대하여**"}
+                "pt": {"title": " **Sobre o** Modelo"}
             },
 
             "items": [
@@ -443,8 +412,9 @@
                         "en": {"text": "<p>This template was created by and is maintained by <b><a href='https://github.com/Isaaccaua26'>Isaac caua</a></b>. It has been published under the MIT license – providing complete freedom for utilization.</p><p>Feel free to enhance and adapt it to suit your needs! \uD83D\uDE03</p>"},
                         "es": {"text": "<p>Esta plantilla fue creada y es mantenida por <b><a href='https://github.com/Isaaccaua26'>Isaac caua</a></b>. Ha sido publicada bajo la licencia MIT, lo que brinda total libertad para su uso.</p><p>Siéntase libre de mejorarla y adaptarla a sus necesidades! \uD83D\uDE03</p>"},
                         "fr": {"text": "<p>Ce modèle a été créé et est maintenu par <b><a href='https://github.com/Isaaccaua26'>Isaac caua</a></b>. Il est publié sous la licence MIT, offrant une totale liberté d'utilisation.</p><p>N'hésitez pas à l'améliorer et l'adapter à vos besoins! \uD83D\uDE03</p>"},
-                        "ko": {"text": "<p>이 템플릿은 <b><a href='https://github.com/Isaaccaua26'>Isaac caua</a></b>에 의해 생성되고 유지 관리됩니다. MIT 라이선스로 배포되어 자유롭게 사용할 수 있습니다.</p><p>필요에 따라 자유롭게 개선하고 조정하세요! \uD83D\uDE03</p>"}
-                    }
+                        "pt": {"text": "<p>Este template foi criado e é mantido por <b><a href='https://github.com/Isaaccaua26'>Isaac Caua</a></b>. Ele é distribuído sob a licença MIT e pode ser usado livremente.</p><p>Sinta-se à vontade para melhorar e ajustar conforme necessário! 😃</p>"
+                       }    
+                   }
                 }
             ]
         }

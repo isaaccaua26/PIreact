@@ -7,9 +7,9 @@
         },
 
         "es": {
-            "title": "Portafolio",
+            "title": "Portifolio",
             "title_long_prefix": "Explora",
-            "title_long": "Mi **Portafolio**"
+            "title_long": "Mi **Portifolio**"
         },
 
         "fr": {
@@ -19,9 +19,9 @@
         },
 
         "pt": {
-            "title": "포트폴리오",
-            "title_long_prefix": "이것은 내",
-            "title_long": "**포트폴리오**입니다"
+            "title": "Portifolio",
+            "title_long_prefix": "Explorar",
+            "title_long": "Meu **Portifolio**"
         }
     },
 

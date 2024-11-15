@@ -19,9 +19,9 @@
         },
 
         "pt": {
-            "title": "포트폴리오",
-            "title_long_prefix": "이것은 내",
-            "title_long": "**포트폴리오**입니다"
+            "title": "Portfólio",
+            "title_long_prefix": "Este é o meu",
+            "title_long": "**portfólio**."
         }
     },
 
@@ -39,7 +39,7 @@
                         "en": {"singular": "App", "plural": "Apps"},
                         "es": {"singular": "App", "plural": "Apps"},
                         "fr": {"singular": "App", "plural": "Apps"},
-                        "pt": {"singular": "앱", "plural": "앱들"}
+                        "pt": {"singular": "App", "plural": "앱들"}
                     }
                 },
                 {
@@ -48,7 +48,7 @@
                         "en": {"singular": "Website", "plural": "Web"},
                         "es": {"singular": "Sitio web", "plural": "Web"},
                         "fr": {"singular": "Site web", "plural": "Web"},
-                        "pt": {"singular": "웹사이트", "plural": "웹"}
+                        "pt": {"singular": "Website", "plural": "웹"}
                     }
                 },
                 {
@@ -57,7 +57,7 @@
                         "en": {"singular": "Utility", "plural": "Utilities"},
                         "es": {"singular": "Utilidad", "plural": "Utilidades"},
                         "fr": {"singular": "Utilitaire", "plural": "Utilitaires"},
-                        "pt": {"singular": "유틸리티", "plural": "유틸리티들"}
+                        "pt": {"singular": "Utilidade", "plural": "유틸리티들"}
                     }
                 }
             ],
@@ -102,7 +102,7 @@
                         },
                         "pt": {
                             "title": "BrainPulse",
-                            "text": "<b>Node.js</b>로 구축된 <b>RESTful API</b> 백엔드로, 고성능 데이터 처리 및 실시간 이벤트 처리용으로 설계되었습니다.",
+                            "text": "Backend construído com <b>Node.js</b> como <b>API RESTful</b>, projetado para processamento de dados de alto desempenho e manipulação de eventos em tempo real.",
                             "tags": ["API", "REST", "Backend"]
                         }
                     }
@@ -152,9 +152,9 @@
                             "tags": ["Flutter", "E-mail", "Communication"]
                         },
                         "pt": {
-                            "title": "MailM8",
-                            "text": "<b>Flutter</b>로 구축된 크로스플랫폼 이메일 클라이언트로, 이메일 <b>관리</b>를 위한 직관적인 UI를 통해 효율적인 소통을 제공합니다.",
-                            "tags": ["Flutter", "이메일", "소통"]
+                                "title": "MailM8",
+                                "text": "<b>Flutter</b> é um cliente de email multiplataforma construído que oferece comunicação eficiente por meio de uma interface intuitiva para <b>gerenciamento</b> de emails.",
+                                "tags": ["Flutter", "Email", "Comunicação"]
                         }
                     }
                 },
@@ -202,8 +202,8 @@
                         },
                         "pt": {
                             "title": "Stackers",
-                            "text": "<b>React Native</b>로 개발된 기능이 풍부한 생산성 앱으로, 사용자가 여러 기기에서 작업, 메모, 프로젝트를 <b>클라우드 동기화</b>와 직관적인 UI로 관리할 수 있습니다.",
-                            "tags": ["React", "조직", "메모"]
+                            "text": "<b>React Native</b> é um aplicativo de produtividade rico em recursos, permitindo que os usuários gerenciem tarefas, anotações e projetos em vários dispositivos com <b>sincronização em nuvem</b> e uma interface intuitiva.",
+                            "tags": ["React", "Organização", "Anotações"]
                         }
                     }
                 },
@@ -246,8 +246,8 @@
                         },
                         "pt": {
                             "title": "SmartCash",
-                            "text": "<b>Next.js</b>로 구축된 금융 웹사이트로, 사용자가 <b>예산을 추적</b>하고 상호작용하는 차트와 통찰력으로 자금을 관리할 수 있습니다.",
-                            "tags": ["Next.js", "금융", "돈"]
+                            "text": "<b>Next.js</b> é um site financeiro construído que permite aos usuários <b>acompanhar orçamentos</b> e gerenciar suas finanças com gráficos interativos e insights.",
+                            "tags": ["Next.js", "Finanças", "Dinheiro"]
                         }
                     }
                 },
@@ -291,8 +291,8 @@
                         },
                         "pt": {
                             "title": "Snappy",
-                            "text": "<b>Swift</b>로 설계된 강력한 사진 앱으로, iOS 및 Android에서 <b>고급 카메라 제어</b>, 편집 도구, AI 기반 필터를 통해 빠르게 사진을 보정할 수 있습니다.",
-                            "tags": ["Swift", "사진", "카메라"]
+                            "text": "<b>Swift</b> é um poderoso aplicativo de fotos projetado que permite, no iOS e Android, corrigir rapidamente fotos com <b>controle avançado da câmera</b>, ferramentas de edição e filtros baseados em IA.",
+                            "tags": ["Swift", "Fotos", "Câmera"]
                         }
                     }
                 },
@@ -335,8 +335,8 @@
                         },
                         "pt": {
                             "title": "Sweet Scoops",
-                            "text": "<b>WordPress</b>와 WooCommerce로 구축된 레시피 웹사이트로, 풍부한 <b>디저트 레시피</b> 모음과 통합된 전자상거래 플랫폼을 제공합니다.",
-                            "tags": ["WooCommerce", "음식", "디저트"]
+                            "text": "<b>WordPress</b> e WooCommerce são utilizados para construir um site de receitas que oferece uma rica coleção de <b>receitas de sobremesas</b> e uma plataforma de comércio eletrônico integrada.",
+                            "tags": ["WooCommerce", "Comida", "Sobremesa"]
                         }
                     }
                 },
@@ -379,8 +379,8 @@
                         },
                         "pt": {
                             "title": "RockVerse",
-                            "text": "<b>Django</b>로 개발된 동적인 음악 및 엔터테인먼트 웹사이트로, 록 음악 뉴스, 이벤트 및 <b>스트리밍 콘텐츠</b>를 제공합니다.",
-                            "tags": ["Django", "음악", "록"]
+                            "text": "<b>Django</b> é um site dinâmico de música e entretenimento que oferece notícias sobre rock, eventos e <b>conteúdo de streaming</b>.",
+                            "tags": ["Django", "Música", "Rock"]
                         }
                     }
                 },
@@ -422,8 +422,8 @@
                         },
                         "pt": {
                             "title": "Soccer Analytics",
-                            "text": "<b>Python</b> 및 <b>TensorFlow</b>로 구축된 AI 기반 스포츠 분석 플랫폼으로, 축구에 대한 <b>예측</b> 및 팀 관리 도구를 제공합니다.",
-                            "tags": ["AI", "예측", "축구"]
+                            "text": "<b>Python</b> e <b>TensorFlow</b> são utilizados para construir uma plataforma de análise esportiva baseada em IA que oferece <b>previsões</b> sobre futebol e ferramentas de gerenciamento de equipes.",
+                            "tags": ["IA", "Previsões", "Futebol"]
                         }
                     }
                 },
@@ -468,8 +468,8 @@
                         },
                         "pt": {
                             "title": "QuickDrop",
-                            "text": "<b>React Native</b>와 <b>Node.js</b> 백엔드로 구축된 크로스플랫폼 배송 앱으로, <b>실시간 추적</b> 및 여러 플랫폼과의 원활한 통합을 제공합니다.",
-                            "tags": ["React Native", "배송", "실시간 추적"]
+                            "text": "<b>React Native</b> e um backend em <b>Node.js</b> são utilizados para construir um aplicativo de entrega multiplataforma que oferece <b>rastreamento em tempo real</b> e integração suave com várias plataformas.",
+                            "tags": ["React Native", "Entrega", "Rastreamento em tempo real"]
                         }
                     }
                 }

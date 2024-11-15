@@ -29,9 +29,9 @@
         },
 
         {
-            "id": "portfolio",
+            "id": "Portfolio",
             "categoryId": "showcase",
-            "jsonPath": "/data/sections/portfolio.json",
+            "jsonPath": "/data/sections/Portfolio.json",
             "faIcon": "fa-solid fa-folder-open"
         },
 
@@ -65,7 +65,7 @@
                 "en": {"title": "Home"},
                 "es": {"title": "Inicio"},
                 "fr": {"title": "Accueil"},
-                "pt": {"title": "홈페이지"}
+                "pt": {"title": "Inicio"}
             }
         },
 
@@ -76,7 +76,7 @@
                 "en": {"title": "History"},
                 "es": {"title": "Trayectoria"},
                 "fr": {"title": "Parcours"},
-                "pt": {"title": "경력"}
+                "pt": {"title": "Historia"}
             }
         },
 
@@ -87,7 +87,7 @@
                 "en": {"title": "Showcase"},
                 "es": {"title": "Vitrina"},
                 "fr": {"title": "Vitrine"},
-                "pt": {"title": "쇼케이스"}
+                "pt": {"title": "Vitrine"}
             }
         },
 
@@ -98,7 +98,7 @@
                 "en": {"title": "More"},
                 "es": {"title": "Más"},
                 "fr": {"title": "Plus"},
-                "pt": {"title": "더보기"}
+                "pt": {"title": "Mais"}
             }
         }
     ]

@@ -1,4 +1,4 @@
-{
+ {
     "locales": {
         "en": {
             "title": "Awards",
@@ -22,10 +22,10 @@
         },
 
         "pt": {
-            "title": "경력 성과",
-            "title_menu": "경력 성과",
-            "title_long_prefix": "다음은",
-            "title_long": "**경력 성과**입니다"
+            "title": "Realizaçoes",
+            "title_menu": "Realizaçoes",
+            "title_long_prefix": "Aqui estao",
+            "title_long": "as minhas**Realizaçoes**"
         }
     },
 
