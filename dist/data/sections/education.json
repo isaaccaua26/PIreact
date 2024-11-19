@@ -101,9 +101,9 @@
                             "tags": null
                         },
                         "pt": {
-                            "title": "PHP 개발 **나노디그리**",
+                            "title": "nanogrado em Desenvolvimento PHP",
                             "info": "Udacity",
-                            "text": "PHP 개발에 중점을 둔 집중 나노디그리 프로그램을 완료하여 백엔드 프로그래밍, 데이터베이스 관리 및 웹 애플리케이션 배포와 같은 필수 기술을 배웠습니다. 이 과정은 현대 PHP 실무에 대한 탄탄한 기초를 제공했습니다.",
+                            "text": "Completei um programa intensivo de nanodegree com foco em desenvolvimento PHP, onde aprendi habilidades essenciais como programação backend, gerenciamento de bancos de dados e implantação de aplicações web. Este curso forneceu uma base sólida para as práticas modernas de PHP.",
                             "tags": null
                         }
                     }
@@ -139,9 +139,9 @@
                             "tags": []
                         },
                         "pt": {
-                            "title": "인공지능 **석사**",
-                            "info": "파리 대학교",
-                            "text": "<p>최첨단 인공지능 주제에 중점을 둔 석사 과정을 완료했습니다. 다룬 주제는 다음과 같습니다:</p> <ul><li>머신러닝</li><li>자연어 처리 (NLP)</li><li>신경망</li></ul> <p class='mt-3'>연구와 이론을 실제 AI 솔루션 개발에 적용하여 학문적 우수성과 실질적 혁신을 결합했습니다.</p>",
+                            "title": "Mestrado em Inteligência Artificial",
+                            "info": "Universidade de Paris",
+                            "text": "<p>Completei um mestrado com foco em tópicos de inteligência artificial de ponta. Os temas abordados incluem:</p> <ul><li>Aprendizado de Máquina</li><li>Processamento de Linguagem Natural (NLP)</li><li>Redes Neurais</li></ul> <p class='mt-3'>Combinei excelência acadêmica e inovação prática ao aplicar pesquisa e teoria no desenvolvimento de soluções de IA.</p>",
                             "tags": []
                         }
                     }
@@ -177,10 +177,10 @@
                             "tags": ["Apprentissage Profond", "Vision par Ordinateur", "Recherche IA", "Algorithmes"]
                         },
                         "pt": {
-                            "title": "컴퓨터 과학 **박사**",
-                            "info": "하버드 대학교",
-                            "text": "<p>딥러닝과 그 실제 응용 분야에 중점을 둔 박사 과정을 수행 중입니다. 특히 다음에 초점을 맞추고 있습니다:</p> <ul><li>컴퓨터 비전</li><li>혁신적인 AI 연구</li><li>이미지 인식을 위한 새로운 알고리즘 개발</li></ul> <p class='mt-3'>최첨단 연구에 참여하고, 유명 학회에서 발표하여 AI 기술 발전에 기여하고 있습니다.</p>",
-                            "tags": ["딥러닝", "컴퓨터 비전", "AI 연구", "알고리즘"]
+                            "title": "Doutorado em Ciência da Computação",
+                            "info": "Universidade de Harvard",
+                            "text": "<p>Estou atualmente realizando um doutorado com foco em deep learning e suas aplicações práticas. Em particular, estou me concentrando nos seguintes aspectos:</p> <ul><li>Visão computacional</li><li>Pesquisa inovadora em IA</li><li>Desenvolvimento de novos algoritmos para reconhecimento de imagem</li></ul> <p class='mt-3'>Estou participando de pesquisas de ponta e contribuindo para o avanço da tecnologia de IA ao apresentar em conferências renomadas.</p>",
+                            "tags": ["Deep Learning", "Visão Computacional", "Pesquisa em IA", "Algoritmos"]
                         }
                     }
                 }

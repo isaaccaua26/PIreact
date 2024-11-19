@@ -227,9 +227,9 @@
                             "text": "Récompensé pour sa contribution à un cadre backend open source qui a amélioré l'évolutivité et réduit la latence."
                         },
                         "pt": {
-                            "title": "**최우수 기여자** – 오픈 소스 백엔드 프로젝트",
+                            "title": "**Melhor Contribuinte** – Projeto de Backend Open Source",
                             "info": "GitHub",
-                            "text": "확장성을 개선하고 지연 시간을 줄인 오픈 소스 백엔드 프레임워크에 기여한 공로로 수상했습니다."
+                            "text": "Recebi um prêmio por minha contribuição para um framework de backend open source que melhorou a escalabilidade e reduziu a latência."
                         }
                     }
                 },
@@ -256,9 +256,9 @@
                             "text": "A remporté la 1ère place pour avoir développé une API robuste avec des fonctionnalités avancées comme le traitement des données en temps réel et l'intégration transparente."
                         },
                         "pt": {
-                            "title": "**1위** – 글로벌 API 디자인 챌린지",
-                            "info": "API 개발자 컨퍼런스",
-                            "text": "실시간 데이터 처리 및 원활한 통합과 같은 고급 기능을 갖춘 강력한 API를 개발하여 1위를 차지했습니다."
+                            "title": "**1º Lugar** – Desafio Global de Design de API",
+                            "info": "Conferência de Desenvolvedores de API",
+                            "text": "Conquistei o primeiro lugar ao desenvolver uma API robusta com recursos avançados, como processamento de dados em tempo real e integração suave."
                         }
                     }
                 },
@@ -287,9 +287,9 @@
                             "text": "Reconnu pour avoir conçu une architecture backend efficace et évolutive qui a amélioré les performances et la fiabilité du système."
                         },
                         "pt": {
-                            "title": "**최우수 백엔드 아키텍처** – 기술 혁신자 어워드",
-                            "info": "Tech Innovator 매거진",
-                            "text": "시스템 성능과 안정성을 개선한 효율적이고 확장 가능한 백엔드 아키텍처 설계로 인정받았습니다."
+                            "title": "**Melhor Arquitetura de Backend** – Prêmio de Inovador Tecnológico",
+                            "info": "Revista Tech Innovator",
+                            "text": "Fui reconhecido por projetar uma arquitetura de backend eficiente e escalável que melhorou o desempenho e a estabilidade do sistema."
                         }
                     }
                 }

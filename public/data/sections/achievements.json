@@ -38,7 +38,7 @@
                 "en": { "title": "Certifications" },
                 "es": { "title": "Certificaciones" },
                 "fr": { "title": "Certifications" },
-                "pt": { "title": "인증서" }
+                "pt": { "title": "Certificações" }
             },
 
             "items": [
@@ -67,7 +67,7 @@
                             "text": "Administrateur Kubernetes Certifié (CKA)"
                         },
                         "pt": {
-                            "text": "인증된 쿠버네티스 관리자 (CKA)"
+                            "text": "Certified Kubernetes Administrator (CKA)"
                         }
                     }
                 },
@@ -96,7 +96,7 @@
                             "text": "Architecte de Solutions Certifié AWS – Associé"
                         },
                         "pt": {
-                            "text": "AWS 인증 솔루션 아키텍트 – 어소시에이트"
+                            "text": "AWS Certified Solutions Architect – Associate"
                         }
                     }
                 },
@@ -125,7 +125,7 @@
                             "text": "Développeur Java Certifié"
                         },
                         "pt": {
-                            "text": "인증된 자바 개발자"
+                            "text": "Certified Java Developer"
                         }
                     }
                 },
@@ -154,7 +154,7 @@
                             "text": "Développeur Certifié MongoDB"
                         },
                         "pt": {
-                            "text": "몽고디비 인증 개발자"
+                            "text": "MongoDB Certified Developer"
                         }
                     }
                 }
@@ -169,7 +169,7 @@
                 "en": { "title": "Awards" },
                 "es": { "title": "Premios" },
                 "fr": { "title": "Récompenses" },
-                "pt": { "title": "수상 내역" }
+                "pt": { "title": "Premios" }
             },
 
             "items": [
@@ -196,9 +196,9 @@
                             "text": "Reconnu pour son travail innovant sur l'optimisation des systèmes backend pour les environnements cloud, avec des améliorations significatives des performances."
                         },
                         "pt": {
-                            "title": "**최우수 졸업 프로젝트** – 백엔드 최적화",
+                            "title": "**Best Graduation Project** – Backend Optimization",
                             "info": "MIT",
-                            "text": "클라우드 환경에서 백엔드 시스템을 최적화한 혁신적인 작업으로 성능을 크게 개선한 것으로 인정받았습니다."
+                            "text": "Recognized for an innovative work that optimized backend systems in a cloud environment, significantly improving performance."
                         }
                     }
                 },
@@ -227,9 +227,9 @@
                             "text": "Récompensé pour sa contribution à un cadre backend open source qui a amélioré l'évolutivité et réduit la latence."
                         },
                         "pt": {
-                            "title": "**최우수 기여자** – 오픈 소스 백엔드 프로젝트",
+                            "title": "**Outstanding Contributor** – Open Source Backend Project",
                             "info": "GitHub",
-                            "text": "확장성을 개선하고 지연 시간을 줄인 오픈 소스 백엔드 프레임워크에 기여한 공로로 수상했습니다."
+                            "text": "Awarded for contributions to an open source backend framework that improved scalability and reduced latency."
                         }
                     }
                 },
@@ -256,9 +256,9 @@
                             "text": "A remporté la 1ère place pour avoir développé une API robuste avec des fonctionnalités avancées comme le traitement des données en temps réel et l'intégration transparente."
                         },
                         "pt": {
-                            "title": "**1위** – 글로벌 API 디자인 챌린지",
-                            "info": "API 개발자 컨퍼런스",
-                            "text": "실시간 데이터 처리 및 원활한 통합과 같은 고급 기능을 갖춘 강력한 API를 개발하여 1위를 차지했습니다."
+                            "title": "**1st Place** – Global API Design Challenge",
+                            "info": "API Developer Conference",
+                            "text": "Achieved 1st place by developing a powerful API with advanced features such as real-time data processing and seamless integration."
                         }
                     }
                 },
@@ -287,9 +287,9 @@
                             "text": "Reconnu pour avoir conçu une architecture backend efficace et évolutive qui a amélioré les performances et la fiabilité du système."
                         },
                         "pt": {
-                            "title": "**최우수 백엔드 아키텍처** – 기술 혁신자 어워드",
-                            "info": "Tech Innovator 매거진",
-                            "text": "시스템 성능과 안정성을 개선한 효율적이고 확장 가능한 백엔드 아키텍처 설계로 인정받았습니다."
+                            "title": "**Best Backend Architecture** – Tech Innovator Award",
+                            "info": "Tech Innovator Magazine",
+                            "text": "Recognized for designing an efficient and scalable backend architecture that improved system performance and stability."
                         }
                     }
                 }
