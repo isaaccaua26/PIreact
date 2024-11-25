@@ -39,7 +39,7 @@
                         "en": {"singular": "App", "plural": "Apps"},
                         "es": {"singular": "App", "plural": "Apps"},
                         "fr": {"singular": "App", "plural": "Apps"},
-                        "pt": {"singular": "App", "plural": "앱들"}
+                        "pt": {"singular": "App", "plural": "Apps"}
                     }
                 },
                 {
@@ -406,22 +406,22 @@
 
                     "locales": {
                         "en": {
-                            "title": "Soccer Analytics",
+                            "title": "Jogo futebol",
                             "text": "An AI-powered sports analytics platform built with <b>Python</b> and <b>TensorFlow</b>, offering detailed soccer <b>predictions</b> and team management tools.",
                             "tags": ["AI", "Prediction", "Soccer"]
                         },
                         "es": {
-                            "title": "Soccer Analytics",
+                            "title": "Jogo futebol",
                             "text": "Una plataforma de análisis deportivo impulsada por IA construida con <b>Python</b> y <b>TensorFlow</b>, que ofrece <b>predicciones</b> detalladas de fútbol y herramientas de gestión de equipos.",
                             "tags": ["IA", "Predicción", "Fútbol"]
                         },
                         "fr": {
-                            "title": "Soccer Analytics",
+                            "title": "Jogo futebol",
                             "text": "Une plateforme d'analytique sportive alimentée par IA construite avec <b>Python</b> et <b>TensorFlow</b>, offrant des <b>prédictions</b> détaillées pour le football et des outils de gestion d'équipe.",
                             "tags": ["IA", "Prédiction", "Football"]
                         },
                         "pt": {
-                            "title": "Soccer Analytics",
+                            "title": "Jogo futebol",
                             "text": "Uma plataforma de análise esportiva baseada em IA, construída com <b>Python</b> e <b>TensorFlow</b>, que oferece <b>previsões</b> e ferramentas de gerenciamento de equipe para o futebol.",
                             "tags": ["IA", "Previsões", "Futebol"]
                         }
