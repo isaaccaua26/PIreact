@@ -58,16 +58,16 @@
                     "locales": {
                         "en": {
                             "title": "The **Linux Foundation**",
-                            "text": "Certified Kubernetes Administrator (CKA)"
+                            "text": "Certified Coursera  "
                         },
                         "es": {
-                            "text": "Administrador Kubernetes Certificado (CKA)"
+                            "text": "Certificado Coursera  "
                         },
                         "fr": {
-                            "text": "Administrateur Kubernetes Certifié (CKA)"
+                            "text": "Certifié Coursera  "
                         },
                         "pt": {
-                            "text": "Certified Kubernetes Administrator (CKA)"
+                            "text": "Certified Coursera  "
                         }
                     }
                 },
